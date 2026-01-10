@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "CONFLICT",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-01-10T13:25:43.654755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Conflict",
+      "artist": "Archive",
+      "has_synced": true,
+      "path": "select/01_Conflict_Archive.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Conflict",
+      "artist": "Tears for Fears",
+      "has_synced": true,
+      "path": "select/02_The_Conflict_Tears_for_Fears.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Inhuman Nature (Final Conflict cover)",
+      "artist": "Sepultura",
+      "has_synced": false,
+      "path": "select/03_Inhuman_Nature_(Final_Conflict_cover)_Sepultura.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Inhuman Nature (Final Conflict cover)",
+      "artist": "Sepultura",
+      "has_synced": true,
+      "path": "select/04_Inhuman_Nature_(Final_Conflict_cover)_Sepultura.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reflect On Conflict",
+      "artist": "Napalm Death",
+      "has_synced": true,
+      "path": "select/05_Reflect_On_Conflict_Napalm_Death.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Conflict of Interest",
+      "artist": "Darkwell",
+      "has_synced": false,
+      "path": "select/06_Conflict_of_Interest_Darkwell.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stabbers (feat. Crucial Conflict)",
+      "artist": "Project Pat",
+      "has_synced": false,
+      "path": "select/07_Stabbers_(feat._Crucial_Conflict)_Project_Pat.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Conflict",
+      "artist": "Disturbed",
+      "has_synced": true,
+      "path": "select/08_Conflict_Disturbed.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Conflict - Live from The European Adventure, 1981",
+      "artist": "Mike Oldfield",
+      "has_synced": false,
+      "path": "select/09_Conflict_-_Live_from_The_European_Adventure,_1981_Mike_Oldfield.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Conflict (Live)",
+      "artist": "Mike Oldfield",
+      "has_synced": false,
+      "path": "select/10_Conflict_(Live)_Mike_Oldfield.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ghetto Queen (Crucial Conflict)",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/11_Ghetto_Queen_(Crucial_Conflict)_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brother in Conflict",
+      "artist": "Voxtrot",
+      "has_synced": true,
+      "path": "select/12_Brother_in_Conflict_Voxtrot.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Conflict Of Interest",
+      "artist": "The Joe Perry Project",
+      "has_synced": false,
+      "path": "select/13_Conflict_Of_Interest_The_Joe_Perry_Project.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Conflict Resolution",
+      "artist": "Metalium",
+      "has_synced": true,
+      "path": "select/14_Conflict_Resolution_Metalium.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CONFLICT",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_CONFLICT_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
